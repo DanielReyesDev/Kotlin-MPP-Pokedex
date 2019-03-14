@@ -1,0 +1,4 @@
+#Tue Mar 12 23:50:49 CST 2019
+base.0=/Users/rey1mx/Downloads/PokeList_Kotlin_1.3.20/starter_project/PokeList/app/build/intermediates/transforms/dexMerger/debug/5
+renamed.0=classes.dex
+path.0=classes.dex

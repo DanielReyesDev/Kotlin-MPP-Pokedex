@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PokeList.iml" filepath="$PROJECT_DIR$/PokeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/PokeList.app.commonMain.iml" filepath="$PROJECT_DIR$/app/PokeList.app.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/PokeList.app.commonTest.iml" filepath="$PROJECT_DIR$/app/PokeList.app.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/PokeList.app.iosMain.iml" filepath="$PROJECT_DIR$/app/PokeList.app.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/PokeList.app.iosTest.iml" filepath="$PROJECT_DIR$/app/PokeList.app.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
